@@ -1,5 +1,5 @@
 {
-    "name": "october/test-plugin",
+    "name": "october/sssd-plugin",
     "type": "october-plugin",
     "description": "Playground for testing October CMS functionality",
     "require": {
